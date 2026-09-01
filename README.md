@@ -1,8 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 
-<h2 align="center">This is..</h2>
-
-<h1 align="center">Haripreeth Ilamparithi</h1>
+<h2 align="center">This is..</h2><h1 align="center">Haripreeth Ilamparithi</h1>
 
 ## 🚀 About Me
 
