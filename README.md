@@ -1,6 +1,6 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Welcome to my page</h1>
 
-<h2 align="center">This is..</h2><h1 align="center">Haripreeth Ilamparithi</h1>
+<h2 align="center">This is Haripreeth Ilamparithi</h2>
 
 ## 🚀 About Me
 
